@@ -1,0 +1,19 @@
+{
+  "name": "WatermarkRemover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "get-pixels": "^3.3.0",
+    "jimp": "^0.2.24",
+    "lodash": "^4.12.0",
+    "synaptic": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bert Verhelst and Laurens Hellinger",
+  "license": "ISC"
+}
